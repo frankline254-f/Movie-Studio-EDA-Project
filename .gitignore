@@ -205,3 +205,33 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# ===== Data science safe ignore =====
+
+# datasets
+data/
+zippedData/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+*.zip
+*.gz
+
+# models
+*.pkl
+*.joblib
+*.h5
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
