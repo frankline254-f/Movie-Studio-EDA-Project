@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # Movie Studio Analysis
 **Box Office Mojo and Rotten Tomatoes**
 The analysis focuses on  importing data, inspection, and checking missing values using **Python and pandas**
+=======
+#
+Movie Studio Analysis
+**Box Office Mojo and Rotten Tomatoes*
+The analysis focuses on  importing data,inspection and checking missing values using **python and pandas**
+>>>>>>> Data_Cleaning
 
 ## datasets Used
 ## 1. Box Office Mojo
