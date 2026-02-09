@@ -20,6 +20,7 @@ Our company is launching a new movie studio and needs to decide what types of fi
 
 4. **Does release timing affect earnings?**  
    By examining release months and their associated revenues, we can identify the optimal times of the year to launch films for maximum success.
+ feature/movies-EDA
 
 
 ## Data Understanding
@@ -59,3 +60,5 @@ Plan future investments with a long-term growth mindset while remaining agile to
 Average box office revenue per movie has increased over time, indicating sustained growth potential in the industry, but periodic declines highlight the need for flexibility.
 * While longer films receive slightly higher ratings on average, the impact is small and inconsistent, and runtime alone does not meaningfully influence how audiences rate a movie. Avoid using movie length as a primary lever to improve audience ratings
 * While longer films tend to receive slightly higher ratings on average, the effect is **small and inconsistent**. Movie runtime alone does **not meaningfully influence** how audiences rate a movie. Focus on other factors such as story quality, cast performance, and production values to improve ratings.Avoid using movie length as a primary lever to improve audience ratings
+
+ main
